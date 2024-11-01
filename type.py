@@ -21,7 +21,7 @@ font = pygame.font.Font(None, 50)
 small_font = pygame.font.Font(None, 35)
 
 # Game variables
-words = ["python", "java", "react", "javascript", "docker", "linux", "tensor", "typing", "keyboard", "pygame","nigger","missyou balik kana","gago"]
+words = ["python", "java", "react", "javascript", "docker", "linux", "tensor", "typing", "keyboard", "pygame","nigger","missyou","gago"]
 current_word = ""
 word_y_pos = 0
 word_speed = 2
